@@ -1,0 +1,92 @@
+{
+  "name": "explorasi-1",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fullpage/react-fullpage": "^0.1.19",
+    "@testing-library/jest-dom": "^5.11.10",
+    "@testing-library/react": "^11.2.6",
+    "@testing-library/user-event": "^12.8.3",
+    "animejs": "^3.2.1",
+    "aos": "^3.0.0-beta.6",
+    "axios": "^0.21.0",
+    "bootstrap": "^4.6.0",
+    "datatables.net": "^1.10.25",
+    "datatables.net-dt": "^1.1.0",
+    "eslint": "^8.23.0",
+    "express": "^4.17.1",
+    "gsap": "^3.6.0",
+    "jquery": "^3.5.1",
+    "jquery.ripples": "^0.6.3",
+    "kinet": "^2.2.1",
+    "particles.js": "^2.0.0",
+    "popper.js": "^1.16.1",
+    "pure-parallaxify": "^0.0.4",
+    "react": "^17.0.2",
+    "react-animejs": "^0.5.6",
+    "react-cookie": "^4.0.3",
+    "react-cursor": "^2.0.15",
+    "react-dom": "^17.0.2",
+    "react-helmet": "^6.1.0",
+    "react-jquery-plugin": "^1.1.7",
+    "react-jw-player2": "^1.0.5",
+    "react-loadable": "^5.5.0",
+    "react-particles-js": "^3.4.1",
+    "react-player": "^2.9.0",
+    "react-rating": "^2.0.5",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-router-hash-link": "^2.4.3",
+    "react-scripts": "^5.0.1",
+    "react-scroll": "^1.8.2",
+    "react-scrollspy": "^3.4.3",
+    "react-slick": "^0.28.1",
+    "react-smooth-scrolling": "^1.0.2",
+    "react-tilt": "^0.1.4",
+    "react-toastify": "^7.0.4",
+    "react-vanilla-tilt": "^1.0.0",
+    "react-water-wave": "^1.0.5",
+    "sass": "^1.54.5",
+    "slick-carousel": "^1.8.1",
+    "web-vitals": "^1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "dev": "yarn start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.5%",
+      "last 2 versions",
+      "not op_mini all",
+      "ie >= 11"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.35.1",
+    "@typescript-eslint/parser": "^5.35.1",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-react-app": "^7.0.1",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.31.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-unused-imports": "^2.0.0",
+    "prettier": "^2.7.1",
+    "typescript": "^4.8.2"
+  }
+}

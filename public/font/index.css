@@ -1,0 +1,9 @@
+
+@font-face {
+    font-family: 'khamer';
+    src: url('./Khmer MN.ttc');
+}
+
+.khamer{
+    font-family: 'khamer', sans-serif;
+}

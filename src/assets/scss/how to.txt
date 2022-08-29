@@ -1,0 +1,5 @@
+1. install scss you can search in google
+2. open terminal/cmd
+2. paste this code 
+
+sass --watch main.scss:../css/main.css
